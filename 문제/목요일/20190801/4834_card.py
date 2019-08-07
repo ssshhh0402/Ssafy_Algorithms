@@ -7,7 +7,6 @@ for i in range(int(input())):
     for j in numbers:
         count[j] += 1
     for n, idx in enumerate(count):
-        print(n, idx)
         if idx >= max_i:
             max_n = n
             max_i = idx
