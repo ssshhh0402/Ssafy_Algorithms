@@ -1,10 +1,11 @@
 def find(tg_s, tg_e):          #find(시작점배열, 끝점 배열, 타겟_시작점, 타겟_끝점)
-    if tg_s == tg_e: return 1
+    if tg_s == tg_e:                                            #
+        return 1
 
-    for i in range(len(list_S)):
+    for i in range(len(list_S)):                    #만약 끝 리스트에 있는 값이랑 입력받는 값(th_e)와 같다면
         if list_E[i] == tg_e:
-            if find(tg_s, list_S[i]): return 1
-
+            if find(tg_s, list_S[i]):
+                return 1
     return 0
 
 
