@@ -6,7 +6,7 @@ def paint(arr, list_x, list_y, color):
 
 
 def c_color(arr):
-    
+
     #c_list = [0 for _ in range(11)]
     for i in range(N):
         for j in range(N):
@@ -25,14 +25,14 @@ def can_p(arr, list_x, list_y, color):
 
 for tc in range(int(input())):
     N, M, K = map(int, input().split())
-    base = [[0 for _ in range(N)] for _ in range(M)]
+    base = [[0 for _ in range(M)] for _ in range(N)]
     c_list = [0 for _ in range(11)]
     for _ in range(K):
         order = list(map(int, input().split()))
+        # x1, y1, x2, y2, color = map(int, input().split())
         list_x = [order[x] for x in range(4) if x % 2 == 0]
         list_y = [order[x] for x in range(4) if x % 2 != 0]
         color = order[-1]
         if can_p(base, list_x, list_y, color):
             paint(base, list_x, list_y, color)
     print('#{0} {1}'.format(tc+1, c_color(base)))
-
