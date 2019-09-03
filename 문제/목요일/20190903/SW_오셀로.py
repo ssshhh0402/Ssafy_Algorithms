@@ -7,11 +7,12 @@ def change(a,b,c):
     while k != len(dir):                                                                #상하좌우 대각선 쭉 확인하기
         stck = []                                                                         # 다른 색 => stck에 넣기
         x = a                                                                               # 같은 색 => stck에 있는 애들 색깔 변경
+                                                                                                # 없는 곳이면 끝?
                                                                                         # 범위 나가면 => 끝
         y = b
         while True:
             x, y = x + dir[k][0], y + dir[k][1]
-            if not 0 <= x < N or not 0 <= y < N:
+            if not 0 <= x < N or not 0 <= y < N or base[x][y] == 0:
                 break
             elif base[x][y] == c:
                 while stck:
