@@ -1,12 +1,21 @@
 import sys
+from collections import deque
+
 def find(a, b):
     global result
-    if a == N:
-        result.append(b)
-    else:
-        for idx in range(a, len(list_T)):
-            if a + list_T[idx] <= N:
-                find(list_T[idx], b + list_P[idx])
+    stck = deque()
+    stck.append((a,b))
+    while stck:
+        n = stck.popleft()
+        if n[0] == N:
+            result.append(n[1])
+        else:
+            for i in range(n[0], len(list_T)):
+                if i + list_T[i] <= N:
+                    stck.append((i + list_T[i], n[1] + list_P[i]))
+                else:
+                    result.append(n[1])
+
 
 
 list_T = []
@@ -18,5 +27,9 @@ for _ in range(N):
     list_T.append(a)
     list_P.append(b)
 for i in range(len(list_T)):
-    find(i, 0)
-print(result)
+    if i + list_T[i] <= N:
+        find(i + list_T[i], list_P[i])
+if len(result) == 0:
+    print(0)
+else:
+    print(max(result))
