@@ -94,6 +94,7 @@ def air(x, y, q):
 
 R,C,T = map(int,sys.stdin.readline().split())
 base = [list(map(int, sys.stdin.readline().split())) for _ in range(R)]
+copied = [[0 for _ in range(C)] for _ in range(R)]
 list_m = []
 list_a = []
 visited = []
@@ -108,9 +109,9 @@ for i in range(R):
         elif base[i][j] == -1:
             list_a.append((i,j))
 
-while count != T:
+for _ in range(T):
     # 공기 움직이고
-    for _ in range(len(list_m)):
+    for _ in range(len(list_m)):                                                                                                                    #
         a_x,a_y = list_m.pop()
         for i in range(4):
             x,y = a_x + dx[i], a_y + dy[i]
@@ -130,7 +131,7 @@ while count != T:
     for item in list_a:
         air(item[0],item[1],mode)
         mode += 1
-    count += 1
+
 sum_n = 0
 for i in range(R):
     for j in range(C):

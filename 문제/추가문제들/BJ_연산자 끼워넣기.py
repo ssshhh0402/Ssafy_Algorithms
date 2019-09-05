@@ -44,8 +44,6 @@ def cal(arr_s):
                         a = 0
                     else:
                         a = j
-
-
                 else:
                     if b == '+':
                         a = a + j
