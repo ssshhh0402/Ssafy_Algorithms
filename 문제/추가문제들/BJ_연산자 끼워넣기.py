@@ -29,6 +29,7 @@ def find(arr_1, arr_2, arr_3):
 
 def cal(arr_s):
     imsi = []
+    print(len(arr_s))
     for i in arr_s:
         a = 0
         b = ''
