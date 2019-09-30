@@ -22,7 +22,13 @@ def find(a):
         if not flag:
             break
         else:
-            for i in imsi:
+            sum = 0
+            for idx in G:
+                for a in idx:
+                   sum += a
+            for idx in G:
+                for a in idx:
+
                 base[i[0]][i[1]] = sum // len(imsi)
             visited = [[0 for _ in range(N)] for _ in range(N)]
             count += 1
