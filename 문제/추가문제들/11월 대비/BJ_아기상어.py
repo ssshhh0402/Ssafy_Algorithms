@@ -2,20 +2,23 @@ from collections import deque
 
 
 def target(a):       # 같은 거리에서 먹을수 있는 아이들
-    n_target = (0,0)
+    n_target = (0, 0)
     if len(a) == 1:
         n_target = a[0]
     else:
         imsi = []
         imsi_x = 0xffffff
         for item in a:              # 가장 위에 있는 물고기 탐색
-            if item[0] <= imsi_x:
+            if item[0] < imsi_x:
+                imsi.clear()
                 imsi.append(item)
                 imsi_x = item[0]
+            elif item[0] == imsi_x:
+                imsi.append(item)
         if len(imsi) == 1:          # 가장 위에 있는 물고기가 여러마리일 경우
             n_target = imsi[0]
         else:
-            imsi_y= 0xffffff
+            imsi_y = 0xffffff
             for items in imsi:          # 가장 왼쪽에 있는 물고기 탐색
                 if items[1] < imsi_y:
                     n_target = items
@@ -24,21 +27,20 @@ def target(a):       # 같은 거리에서 먹을수 있는 아이들
 
 def find(a,b,c):            # a : 시작지점 x, b = 시작지점 y, c = 시간
     global shark, count, base
-    base[a][b] = 0
     visited = [[0 for _ in range(N)] for _ in range(N)]
+    base[a][b] = 0
     visited[a][b] = 1
     stck = deque([(a,b)])
     result = []
     imsi_c = 0
-    n_fish = (0,0)
     count -= 1                      #물고기를 먹었을 경우, count -1
-    if count == 0:                      # - 1 한 후 count 가 0일 경우 상어 크기 + 1
+    if not count:                      # - 1 한 후 count 가 0일 경우 상어 크기 + 1
         shark += 1
         count = shark
     while stck:                             # bfs로 상어보다 작은 물고기 만날때 까지 탐색
         for _ in range(len(stck)):
             imsi_x, imsi_y = stck.popleft()
-            for i_x, i_y in [(0,1), (0,-1), (1,0),(-1,0)]:
+            for i_x, i_y in [(0, 1), (0, -1), (1, 0), (-1, 0)]:
                 x, y = imsi_x + i_x, imsi_y + i_y
                 if 0 <= x < N and 0 <= y < N and base[x][y] <= shark and not visited[x][y]:
                     visited[x][y] = 1
