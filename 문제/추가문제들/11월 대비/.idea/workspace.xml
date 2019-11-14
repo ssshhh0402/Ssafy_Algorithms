@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8575313b-4631-45be-9e59-595af34ad820" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/11월 대비.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/11월 대비.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1113/SW_지뢰.py" beforeDir="false" afterPath="$PROJECT_DIR$/1113/SW_지뢰.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1113/SW_탈주범.py" beforeDir="false" afterPath="$PROJECT_DIR$/1114/SW_탈주범.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,31 +15,31 @@
     <session id="2139036426">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.2" value="3" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.2" value="4" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="7516" />
+          <entry key="py" value="15045" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="7516" />
+          <entry key="Python" value="15045" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="8" />
-          <entry key="txt" value="4" />
+          <entry key="py" value="13" />
+          <entry key="txt" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="4" />
-          <entry key="Python" value="8" />
+          <entry key="PLAIN_TEXT" value="6" />
+          <entry key="Python" value="13" />
         </counts>
       </usages-collector>
     </session>
@@ -49,13 +47,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/1113/SW_탈주범.py">
+        <entry file="file://$PROJECT_DIR$/1114/SW_디저트.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="228">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
               <folding>
-                <marker date="1573635419484" expanded="true" signature="47:765" ph="..." />
+                <marker date="1573721578020" expanded="true" signature="47:695" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://C:/Program Files/Python35/Lib/copy.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="142" selection-start-line="142" selection-end-line="142" />
             </state>
           </provider>
         </entry>
@@ -88,7 +95,10 @@
         <option value="$PROJECT_DIR$/1113/홈.txt" />
         <option value="$PROJECT_DIR$/1113/SW_홈2.py" />
         <option value="$PROJECT_DIR$/1113/SW_홈.py" />
+        <option value="$PROJECT_DIR$/1113/탈주범.txt" />
         <option value="$PROJECT_DIR$/1113/SW_탈주범.py" />
+        <option value="$PROJECT_DIR$/1114/SW_벽돌.py" />
+        <option value="$PROJECT_DIR$/1114/SW_디저트.py" />
       </list>
     </option>
   </component>
@@ -102,8 +112,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="953" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="774" />
+    <option name="y" value="87" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -113,6 +124,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -123,13 +135,12 @@
             <path>
               <item name="11월 대비" type="b2602c69:ProjectViewProjectNode" />
               <item name="11월 대비" type="462c0819:PsiDirectoryNode" />
-              <item name="1113" type="462c0819:PsiDirectoryNode" />
+              <item name="1114" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -139,6 +150,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\student\Desktop\바탕화면 정리\새 폴더\algorithms\문제\추가문제들\11월 대비\1114" />
       <recent name="C:\Users\student\Desktop\바탕화면 정리\새 폴더\algorithms\문제\추가문제들\11월 대비\1112" />
     </key>
   </component>
@@ -154,8 +166,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.SW_탈주범">
-    <configuration name="키 순서" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.SW_디저트">
+    <configuration name="SW_탈주범 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="11월 대비" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -163,11 +175,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1112" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1114" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1112/키 순서.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1114/SW_탈주범.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -176,7 +188,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SW_등산로" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="SW_디저트" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="11월 대비" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -184,11 +196,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1112" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1114" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1112/SW_등산로.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1114/SW_디저트.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -210,6 +222,48 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1113/SW_지뢰2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SW_탈주범" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="11월 대비" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1113" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\student\Desktop\바탕화면 정리\새 폴더\algorithms\문제\추가문제들\11월 대비\1114\SW_탈주범.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SW_벽돌" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="11월 대비" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1114" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1114/SW_벽돌.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -387,19 +441,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.키 순서" />
-      <item itemvalue="Python.SW_등산로" />
       <item itemvalue="Python.SW_지뢰2" />
-      <item itemvalue="Python.SW_홈" />
       <item itemvalue="Python.SW_탈주범" />
+      <item itemvalue="Python.SW_벽돌" />
+      <item itemvalue="Python.SW_탈주범 (1)" />
+      <item itemvalue="Python.SW_디저트" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.SW_디저트" />
+        <item itemvalue="Python.SW_벽돌" />
+        <item itemvalue="Python.SW_탈주범 (1)" />
         <item itemvalue="Python.SW_탈주범" />
-        <item itemvalue="Python.SW_홈" />
         <item itemvalue="Python.SW_지뢰2" />
-        <item itemvalue="Python.키 순서" />
-        <item itemvalue="Python.SW_등산로" />
       </list>
     </recent_temporary>
   </component>
@@ -417,15 +471,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.50106835" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.5" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.4989035" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.34868422" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.34527686" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -509,9 +563,19 @@
           <option name="timeStamp" value="76" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/1113/SW_탈주범.py</url>
-          <line>11</line>
-          <option name="timeStamp" value="78" />
+          <url>file://$PROJECT_DIR$/1114/SW_탈주범.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1114/SW_디저트.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1114/SW_디저트.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="102" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
@@ -524,43 +588,26 @@
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
-        <watch expression="a" language="Python" />
         <watch expression="base" language="Python" />
-        <watch expression="M" language="Python" />
-        <watch expression="item" language="Python" />
-        <watch expression="item" language="Python" />
+        <watch expression="used" language="Python" />
+        <watch expression="lists" language="Python" />
       </configuration>
     </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
       <expression>
-        <expression-string>item</expression-string>
+        <expression-string>lists</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>pipes</expression-string>
+        <expression-string>c</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>M</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>income</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>byong</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>base</expression-string>
+        <expression-string>used</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
@@ -570,17 +617,27 @@
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>x_2, y_2</expression-string>
+        <expression-string>idx_y</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>group</expression-string>
+        <expression-string>result</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>group_c</expression-string>
+        <expression-string>L</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>stck</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>time</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
@@ -624,13 +681,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Program Files/Python35/Lib/copy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="142" selection-start-line="142" selection-end-line="142" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1113/SW_지뢰.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -659,9 +709,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
-          <folding>
-            <marker date="1573632774181" expanded="true" signature="582:584" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -679,12 +726,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1113/SW_탈주범.py">
+    <entry file="file://$PROJECT_DIR$/1114/탈주범.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="190">
+          <caret line="13" selection-start-line="13" selection-end-line="23" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1114/SW_탈주범.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="29" column="25" lean-forward="true" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1114/SW_벽돌.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="52" column="14" lean-forward="true" selection-start-line="52" selection-start-column="14" selection-end-line="52" selection-end-column="14" />
           <folding>
-            <marker date="1573635419484" expanded="true" signature="47:765" ph="..." />
+            <element signature="e#0#29#0" expanded="true" />
+            <marker date="1573715177885" expanded="true" signature="70:1393" ph="..." />
+            <marker date="1573715177885" expanded="true" signature="1407:1516" ph="..." />
+            <marker date="1573715177885" expanded="true" signature="1528:1738" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files/Python35/Lib/copy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="142" selection-start-line="142" selection-end-line="142" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1114/SW_디저트.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <marker date="1573721578020" expanded="true" signature="47:695" ph="..." />
           </folding>
         </state>
       </provider>
