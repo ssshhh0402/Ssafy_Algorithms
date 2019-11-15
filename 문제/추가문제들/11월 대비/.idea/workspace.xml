@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8575313b-4631-45be-9e59-595af34ad820" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1113/SW_탈주범.py" beforeDir="false" afterPath="$PROJECT_DIR$/1114/SW_탈주범.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1114/SW_디저트.py" beforeDir="false" afterPath="$PROJECT_DIR$/1115/SW_디저트.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,48 +11,67 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DockManager">
+    <window id="1">
+      <content type="file-editors">
+        <state>
+          <leaf>
+            <file pinned="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/1115/디저트.txt">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="304">
+                    <caret line="16" column="11" lean-forward="true" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
+  </component>
   <component name="FUSProjectUsageTrigger">
     <session id="2139036426">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.2" value="4" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.2" value="5" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="15045" />
+          <entry key="py" value="17788" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="15045" />
+          <entry key="Python" value="17788" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="13" />
-          <entry key="txt" value="6" />
+          <entry key="py" value="23" />
+          <entry key="txt" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="6" />
-          <entry key="Python" value="13" />
+          <entry key="PLAIN_TEXT" value="8" />
+          <entry key="Python" value="23" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/1114/SW_디저트.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1115/SW_디저트.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="-171">
+              <caret line="6" column="47" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="47" />
               <folding>
-                <marker date="1573721578020" expanded="true" signature="47:695" ph="..." />
+                <marker date="1573790611215" expanded="true" signature="52:858" ph="..." />
               </folding>
             </state>
           </provider>
@@ -61,8 +80,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://C:/Program Files/Python35/Lib/copy.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
+            <state relative-caret-position="201">
               <caret line="142" selection-start-line="142" selection-end-line="142" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/1115/SW_디저트2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -99,6 +127,10 @@
         <option value="$PROJECT_DIR$/1113/SW_탈주범.py" />
         <option value="$PROJECT_DIR$/1114/SW_벽돌.py" />
         <option value="$PROJECT_DIR$/1114/SW_디저트.py" />
+        <option value="$PROJECT_DIR$/1115/SW_줄기세포.py" />
+        <option value="$PROJECT_DIR$/1115/SW_디저트.py" />
+        <option value="$PROJECT_DIR$/1115/디저트.txt" />
+        <option value="$PROJECT_DIR$/1115/SW_디저트2.py" />
       </list>
     </option>
   </component>
@@ -124,7 +156,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -135,12 +166,13 @@
             <path>
               <item name="11월 대비" type="b2602c69:ProjectViewProjectNode" />
               <item name="11월 대비" type="462c0819:PsiDirectoryNode" />
-              <item name="1114" type="462c0819:PsiDirectoryNode" />
+              <item name="1115" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -150,6 +182,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\student\Desktop\바탕화면 정리\새 폴더\algorithms\문제\추가문제들\11월 대비\1115" />
       <recent name="C:\Users\student\Desktop\바탕화면 정리\새 폴더\algorithms\문제\추가문제들\11월 대비\1114" />
       <recent name="C:\Users\student\Desktop\바탕화면 정리\새 폴더\algorithms\문제\추가문제들\11월 대비\1112" />
     </key>
@@ -166,7 +199,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.SW_디저트">
+  <component name="RunManager" selected="Python.SW_디저트2">
     <configuration name="SW_탈주범 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="11월 대비" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -188,6 +221,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="SW_디저트 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="11월 대비" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1115" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1115/SW_디저트.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="SW_디저트" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="11월 대비" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -200,7 +254,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1114/SW_디저트.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\student\Desktop\바탕화면 정리\새 폴더\algorithms\문제\추가문제들\11월 대비\1115\SW_디저트.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -209,7 +263,49 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SW_지뢰2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="SW_디저트2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="11월 대비" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1115" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1115/SW_디저트2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SW_줄기세포" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="11월 대비" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1115" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1115/SW_줄기세포.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SW_숫자" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="11월 대비" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -221,7 +317,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1113/SW_지뢰2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1113/SW_숫자.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SW_지뢰" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="11월 대비" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1113" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1113/SW_지뢰.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -398,62 +515,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SW_숫자" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="11월 대비" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1113" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1113/SW_숫자.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="SW_지뢰" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="11월 대비" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1113" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1113/SW_지뢰.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.SW_지뢰2" />
-      <item itemvalue="Python.SW_탈주범" />
-      <item itemvalue="Python.SW_벽돌" />
       <item itemvalue="Python.SW_탈주범 (1)" />
       <item itemvalue="Python.SW_디저트" />
+      <item itemvalue="Python.SW_줄기세포" />
+      <item itemvalue="Python.SW_디저트 (1)" />
+      <item itemvalue="Python.SW_디저트2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.SW_디저트2" />
+        <item itemvalue="Python.SW_디저트 (1)" />
+        <item itemvalue="Python.SW_줄기세포" />
         <item itemvalue="Python.SW_디저트" />
-        <item itemvalue="Python.SW_벽돌" />
         <item itemvalue="Python.SW_탈주범 (1)" />
-        <item itemvalue="Python.SW_탈주범" />
-        <item itemvalue="Python.SW_지뢰2" />
       </list>
     </recent_temporary>
   </component>
@@ -478,8 +553,8 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.4989035" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.34527686" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4397394" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.34429824" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -568,14 +643,19 @@
           <option name="timeStamp" value="87" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/1114/SW_디저트.py</url>
-          <line>24</line>
-          <option name="timeStamp" value="98" />
+          <url>file://$PROJECT_DIR$/1115/SW_줄기세포.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="105" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/1114/SW_디저트.py</url>
-          <line>6</line>
-          <option name="timeStamp" value="102" />
+          <url>file://$PROJECT_DIR$/1115/SW_디저트.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1115/SW_디저트2.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="112" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
@@ -589,7 +669,10 @@
     <watches-manager>
       <configuration name="PythonConfigurationType">
         <watch expression="base" language="Python" />
-        <watch expression="used" language="Python" />
+        <watch expression="value" language="Python" />
+        <watch expression="c" language="Python" />
+        <watch expression="(a,b)" language="Python" />
+        <watch expression="deserts" language="Python" />
         <watch expression="lists" language="Python" />
       </configuration>
     </watches-manager>
@@ -602,32 +685,32 @@
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
+        <expression-string>deserts</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(a,b)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
         <expression-string>c</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>used</expression-string>
+        <expression-string>time</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>visited</expression-string>
+        <expression-string>value</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>idx_y</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>result</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>L</expression-string>
+        <expression-string>pos</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
@@ -637,7 +720,7 @@
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>time</expression-string>
+        <expression-string>visited</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
@@ -744,29 +827,68 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="52" column="14" lean-forward="true" selection-start-line="52" selection-start-column="14" selection-end-line="52" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files/Python35/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="308" selection-start-line="308" selection-end-line="308" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="1663" selection-start-line="1663" selection-end-line="1663" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1115/SW_줄기세포.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
           <folding>
-            <element signature="e#0#29#0" expanded="true" />
-            <marker date="1573715177885" expanded="true" signature="70:1393" ph="..." />
-            <marker date="1573715177885" expanded="true" signature="1407:1516" ph="..." />
-            <marker date="1573715177885" expanded="true" signature="1528:1738" ph="..." />
+            <marker date="1573782405849" expanded="true" signature="42:1156" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://C:/Program Files/Python35/Lib/copy.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
+        <state relative-caret-position="201">
           <caret line="142" selection-start-line="142" selection-end-line="142" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1114/SW_디저트.py">
+    <entry file="file://$PROJECT_DIR$/1115/SW_디저트.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="-171">
+          <caret line="6" column="47" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="47" />
           <folding>
-            <marker date="1573721578020" expanded="true" signature="47:695" ph="..." />
+            <marker date="1573790611215" expanded="true" signature="52:858" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1115/디저트.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="11" lean-forward="true" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1115/SW_디저트2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
         </state>
       </provider>
     </entry>
