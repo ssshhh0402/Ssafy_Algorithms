@@ -18,7 +18,7 @@ def find(a, b):
 
 for tc in range(1, int(input())+1):
     N = int(input())
-    base = [list(map(int,input().split()))for _ in range(N)]
+    base = [list(map(int, input().split()))for _ in range(N)]
     jaeryo = [x for x in range(1, N+1)]
     result = 0xffffff
     for i in range(1 << N):
@@ -32,3 +32,4 @@ for tc in range(1, int(input())+1):
         if len(base_a) == (N // 2) and len(base_b) == (N //2):
             find(base_a, base_b)
     print("#{0} {1}".format(tc, result))
+
